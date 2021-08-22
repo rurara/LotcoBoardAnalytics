@@ -3,3 +3,4 @@ data/*
 .ipynb_checkpoints/*
 .idea/*
 data_in/data_configs.json
+data_out/*
